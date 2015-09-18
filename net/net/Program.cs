@@ -10,6 +10,7 @@ namespace net
         static void Main(string[] args)
         {
             Console.WriteLine("asdf");
+            Console.ReadKey();
         }
     }
 }
