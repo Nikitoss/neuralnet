@@ -8,5 +8,6 @@ namespace net
 {
     class Vector
     {
+        int i;
     }
 }

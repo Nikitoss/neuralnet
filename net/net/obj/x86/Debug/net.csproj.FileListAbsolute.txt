@@ -6,3 +6,5 @@ D:\repositories\neuralnet\net\net\obj\x86\Debug\net.csprojResolveAssemblyReferen
 C:\Users\Полина\Documents\Учеба\Интеллектуальные системы\net\net\obj\x86\Debug\net.csprojResolveAssemblyReference.cache
 C:\Users\Полина\Documents\Учеба\Интеллектуальные системы\net\net\obj\x86\Debug\net.exe
 C:\Users\Полина\Documents\Учеба\Интеллектуальные системы\net\net\obj\x86\Debug\net.pdb
+C:\Users\Полина\Documents\Учеба\Интеллектуальные системы\net\net\bin\Debug\net.exe
+C:\Users\Полина\Documents\Учеба\Интеллектуальные системы\net\net\bin\Debug\net.pdb
