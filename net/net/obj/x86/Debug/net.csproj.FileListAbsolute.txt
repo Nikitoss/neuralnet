@@ -2,3 +2,4 @@ D:\repositories\neuralnet\net\net\bin\Debug\net.exe
 D:\repositories\neuralnet\net\net\bin\Debug\net.pdb
 D:\repositories\neuralnet\net\net\obj\x86\Debug\net.exe
 D:\repositories\neuralnet\net\net\obj\x86\Debug\net.pdb
+D:\repositories\neuralnet\net\net\obj\x86\Debug\net.csprojResolveAssemblyReference.cache
