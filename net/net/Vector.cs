@@ -9,5 +9,10 @@ namespace net
     class Vector
     {
         int i;
+
+        Vector(int intValue)
+        {
+            i = intValue;
+        }
     }
 }
