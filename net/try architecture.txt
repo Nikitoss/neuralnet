@@ -1,0 +1,20 @@
+class neuron
+{
+	double[] enters;
+	double[] weights;
+	double out; // ннада?
+	ActivFunc func;
+}
+
+class ActivFunc
+{
+	public double activate(double dotProduct);
+	//	get_derivative;
+}
+
+class NeuronLayer
+{
+	neuron[] layer;
+	public double[] evaluate(double[] enters);
+	public learn(double[] enters, double error);
+}
